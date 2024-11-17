@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+#comentario teste
 variables:
   buildConfiguration: 'Release'
 
